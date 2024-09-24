@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5168eb84-7aad-4fc5-9e0a-bc864669a44c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercises/dfdsf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/fdsfsdf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/sdadsdfd.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/sfasfffff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/dasdasd.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/dasdasd.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2irAeWjmr5TQyhslnrhACqdThWa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1720238420696" duration="115000" />
       <workItem from="1720238586607" duration="1740000" />
       <workItem from="1720240360710" duration="3186000" />
-      <workItem from="1738060965349" duration="1425000" />
+      <workItem from="1738060965349" duration="1748000" />
     </task>
     <servers />
   </component>
