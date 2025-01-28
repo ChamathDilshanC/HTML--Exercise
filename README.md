@@ -1,2 +1,2 @@
 # HTML
-Html frist project
+## In Class Exercises 💕🫰
